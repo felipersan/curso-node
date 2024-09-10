@@ -1,0 +1,3 @@
+Registro de log 1 com método writeFile()
+Registro de log 2 com método appendFile()
+Registro de log 3 com método appendFile()
