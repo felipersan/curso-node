@@ -1,0 +1,1 @@
+console.log("comando npm init -y")

@@ -1,0 +1,15 @@
+{
+  "name": "primeiro-projeto",
+  "version": "0.0.0",
+  "description": "primeiro projeto com o npm",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "primeiro",
+    "projeto"
+  ],
+  "author": "felipe sanfilippo",
+  "license": "ISC"
+}
