@@ -1,0 +1,21 @@
+{
+  "name": "estoque-de-mercado",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs"
+  },
+  "keywords": [
+    "node-js",
+    "curso",
+    "estoque",
+    "mercado"
+  ],
+  "author": "Felipe Sanfilippo",
+  "license": "ISC",
+  "description": "projeto/sistema de controle de mercadorias de um mercado",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

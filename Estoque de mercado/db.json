@@ -1,0 +1,7 @@
+{
+  "name": "estoque-db",
+  "products": [
+    { "name": "feijão", "qtt": 25 },
+    { "name": "batata", "qtt": 10 }
+  ]
+}
