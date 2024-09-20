@@ -1,0 +1,7 @@
+PATCH  http://localhost:3000/perfil
+Content-Type: application/json
+
+{
+    "name": "Felipe Sanfilippo",
+    "email": "felipe@sanfilippo.dev"
+}

@@ -1,0 +1,1 @@
+GET http://localhost:3000/user?name=felipe&idade=24&inicio=4&fim=10
