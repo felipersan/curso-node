@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/credit
+Content-Type: application/json
+
+{
+    "value": 500,
+    "cardNumber": "1234",
+    "installments": 12
+}

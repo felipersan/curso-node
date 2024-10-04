@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/debit
+Content-Type: application/json
+
+{
+    "value": 1500,
+    "cardNumber": "1234"
+}
